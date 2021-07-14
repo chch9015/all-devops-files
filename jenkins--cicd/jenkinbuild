@@ -1,0 +1,10 @@
+#when server got started
+uptime
+#current user
+pwd
+#check the date and time
+date
+#check the user
+whoami
+# try to root user
+sudo su -
